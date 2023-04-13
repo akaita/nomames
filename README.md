@@ -32,6 +32,12 @@ PRs to add more lists are welcome.
 
 PRs to create a "master" downloader which then allows you to choose the list you want are welcome.
 
-PRs to create a "dat" downloder which takes a dat file as an input are welcome (I'm thinking about http://adb.arcadeitalia.net/)
+PRs to create a "dat" downloder which takes a dat file as an input are welcome (I'm thinking about http://adb.arcadeitalia.net/).
+
+PRs to make the downloader look in other places or take the base URL dynamically from GitHub are welcome.
+
+PRs to instead download the chose files from the main torrent instead are welcome. 
+
+PRs to paralelise downloads and smash archive.org are not welcome. 
 
 You get the idea.
