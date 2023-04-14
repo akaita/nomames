@@ -4,21 +4,20 @@ MAME is awesome. MAME ROMSets are great archives, but quite massive to navigate.
 
 I don't want to download the whole thing to then filter them and delete most of it. 
 
-Here some real simple Windows Batch scripts so you can download only the ROMs you actually want.
+Here some real simple Windows Batch scripts so you can download only the ROMs you actually want:
+
+| file | description |
+|   -  |      -      |
+| [download_mame_neogeo.bat](download_mame_neogeo.bat) | only Neo Geo games |
+| [download_mame_aknf.bat](download_mame_aknf.bat) | only "All killer, no filler" games |
 
 ## How to use
 
-1. Read below to see which `.bat` file you want. 
+1. Read above to choose the `.bat` file you want. 
 
 2. Download that `bat` file.
 
 3. Execute it and wait until done.
-
-## bat files
-
-- Just Neo Geo games: [download_mame_neogeo.bat](download_mame_neogeo.bat)
-
-- Just "All killer, no filler" games (compiled in MAME 0.244 times): [download_mame_aknf.bat](download_mame_aknf.bat)
 
 You might want some `.dat` file with the complete ROMSet to get nice pretty titles you can actually read. Look for `MAME full sets --> DatFile ... (merged)` : https://pleasuredome.github.io/pleasuredome/mame/
 
