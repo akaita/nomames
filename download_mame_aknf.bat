@@ -1,5 +1,5 @@
-:: This script downloads MAME 0.244 "All Killer, No Filler" ROMS from archive.org
-:: The list was compiled in http://forum.arcadecontrols.com/index.php?topic=149708.0
+:: This script downloads MAME 0.253 "All Killer, No Filler" ROMS from archive.org
+:: The list was compiled for MAME 0.244 in http://forum.arcadecontrols.com/index.php?topic=149708.0
 
 @echo off&setlocal
 
@@ -32,13 +32,13 @@ if %numFiles% gtr 0 (
 :: Download ROMS
 for %%r in (
 1942.zip
-1943u.zip
+1943.zip
 19xx.zip
 2020bb.zip
 64street.zip
 88games.zip
 aerofgts.zip
-agalletu.zip 
+agallet.zip 
 airbustr.zip
 alexkidd.zip
 aliens.zip
@@ -56,10 +56,8 @@ ar_spot.zip
 arabfgt.zip
 arabian.zip
 archrivl.zip
-archrivlb.zip
 armwar.zip
 astdelux.zip
-astinvad.zip
 astorm.zip
 astrob.zip
 asurabus.zip
@@ -74,15 +72,14 @@ bakubaku.zip
 bangball.zip
 bangbead.zip
 batcir.zip
-batrideru.zip
-batsugunsp.zip
+batrider.zip
+batsugun.zip
 battlera.zip
 bayroute.zip
 bbakraid.zip
 bchopper.zip
 berzerk.zip
 bgaregga.zip
-bigbang.zip
 bigfight.zip
 bigkarnk.zip
 biomtoy.zip
@@ -102,7 +99,7 @@ bmaster.zip
 bnzabros.zip
 bombjack.zip
 bonkadv.zip
-boogwingu.zip
+boogwing.zip
 bosco.zip
 brapboys.zip
 breakrev.zip
@@ -148,7 +145,7 @@ cottonbm.zip
 coh1000c.zip
 coh3002c.zip
 crimec.zip
-crimfghtu.zip
+crimfght.zip
 crimfght.zip
 crkdown.zip
 crospang.zip
@@ -166,12 +163,11 @@ cyvern.zip
 daraku.zip
 darius.zip
 darius2.zip
-darius2d.zip
 dariusg.zip
 dbreed.zip
 ddonpach.zip
 ddp2.zip
-ddpdoj.zip
+ddpdojt.zip
 ddragon.zip
 ddragon2.zip
 ddsom.zip
@@ -185,7 +181,7 @@ desertwr.zip
 dharma.zip
 digdug.zip
 digdug2.zip
-dimahoou.zip
+dimahoo.zip
 dino.zip
 dkong.zip
 dkong3.zip
@@ -248,7 +244,6 @@ gauntlet.zip
 gaxeduel.zip
 gberet.zip
 gbusters.zip
-gdarius.zip
 gdarius2.zip
 gemini.zip
 gforce2.zip
@@ -259,7 +254,7 @@ gigawing.zip
 gng.zip
 goldnaxe.zip
 gorf.zip
-gradius.zip
+gradiusb.zip
 gradius3.zip
 gradius4.zip
 gratia.zip
@@ -336,12 +331,12 @@ legendoh.zip
 lethalth.zip
 lightbr.zip
 liquidk.zip
-liquidku.zip 
+liquidk.zip 
 locomotn.zip
 lresort.zip
 lwings.zip
 mace.zip
-macea.zip
+mace.zip
 machbrkr.zip
 macross.zip
 macross2.zip
@@ -389,7 +384,6 @@ mslug4.zip
 mslug5.zip
 mslugx.zip
 mspacman.zip
-mspacmnf.zip
 msword.zip
 mtlchamp.zip
 mtrap.zip
@@ -440,8 +434,7 @@ overtop.zip
 p47.zip
 p47aces.zip
 pacland.zip
-pacman.zip
-pacmanf.zip
+25pacman.zip
 pandoras.zip
 panic.zip
 parodius.zip
@@ -476,12 +469,10 @@ pulstar.zip
 punchout.zip
 punisher.zip
 punkshot.zip
-punkshot2.zip
 pururun.zip
 puyopuy2.zip
 puzzledp.zip
 puzzli2.zip
-puzzli2s.zip
 puzzloop.zip
 pwrgoal.zip
 pzloop2.zip
@@ -496,12 +487,10 @@ rampage.zip
 rastan.zip
 raystorm.zip
 rbff2.zip
-rbtapper.zip
-rdft2u.zip
+rdft2.zip
 recalh.zip 
-rfjetu.zip
+rfjet.zip
 ringdest.zip
-ringking.zip
 riotcity.zip
 riskchal.zip
 rmpgwt.zip
@@ -511,7 +500,7 @@ robocop2.zip
 robotron.zip
 rocnrope.zip
 rodland.zip
-rohgau.zip
+rohga.zip
 rollerg.zip
 rotd.zip
 rsgun.zip
@@ -549,7 +538,7 @@ sf2ce.zip
 sfa2.zip
 sfa3.zip
 sfex2p.zip
-sfexa.zip
+sfex.zip
 sfiii3.zip
 sgemf.zip
 shadfrce.zip
@@ -566,7 +555,6 @@ silentd.zip
 silkroad.zip
 simpbowl.zip
 simpsons.zip
-simpsons2p3.zip
 skns.zip
 skykid.zip
 slammast.zip
@@ -591,13 +579,11 @@ ssf2t.zip
 ssi.zip
 ssideki3.zip
 ssriders.zip 
-ssridersubc.zip
 sstriker.zip
 stakwin2.zip
 stdragon.zip
 stmblade.zip
 stonebal.zip
-stonebal2.zip
 strahl.zip
 stratof.zip
 strider.zip
@@ -633,8 +619,6 @@ timeplt.zip
 timesold.zip
 tmnt.zip
 tmnt2.zip
-tmnt22pu.zip
-tmnt2pj.zip
 tms32031.zip
 tnzs.zip
 toki.zip
@@ -665,7 +649,6 @@ vasara.zip
 vasara2.zip
 vball.zip
 vendetta.zip
-vendetta2pw.zip
 vf.zip
 victroad.zip
 vigilant.zip
@@ -680,7 +663,6 @@ waterski.zip
 watrball.zip
 wb3.zip
 wbml.zip
-wbmlvc.zip
 wboy.zip
 twcup90.zip
 wg3dh.zip
@@ -699,10 +681,8 @@ wwfwfest.zip
 xevi3dg.zip
 xevious.zip
 xexex.zip
-xexexj.zip
 xmcota.zip
 xmen.zip
-xmen2pu.zip
 xmultipl.zip
 xmvsf.zip
 xsleena.zip
