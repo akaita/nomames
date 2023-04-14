@@ -12,19 +12,19 @@ Here some real simple Windows Batch scripts so you can download only the ROMs yo
 
 2. Download that `bat` file.
 
-3. Execute it.
-
-4. Wait until done.
+3. Execute it and wait until done.
 
 ## bat files
 
-- Just Neo Geo games: `download_mame_neogeo.bat`
+- Just Neo Geo games: [download_mame_neogeo.bat](download_mame_neogeo.bat)
 
-- Just "All killer, no filler" games (as of MAME 0.244): `download_mame0.244_akfn.bat`
+- Just "All killer, no filler" games (compiled in MAME 0.244 times): [download_mame_aknf.bat](download_mame_aknf.bat)
+
+You might want some `.dat` file with the complete ROMSet to get nice pretty titles you can actually read. Look for `MAME full sets --> DatFile ... (merged)` : https://pleasuredome.github.io/pleasuredome/mame/
 
 ## Contributing
 
-MAME 0.244 is quite old. Sure there's more awesome stuff supported; I just didn't care to search more and trusted the most cited resource. I also only went with the Neo Geo nostalgia, which is the one that hits me.
+AKNF was compiled for MAME 0.244 which is quite old. Sure there's more awesome stuff supported today; I just didn't care to search more and trusted the most cited resource. I also only went with the Neo Geo nostalgia, which is the one that hits me.
 
 PRs to expand the lists are welcome.
 
