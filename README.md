@@ -6,10 +6,11 @@ I don't want to download the whole thing to then filter them and delete most of 
 
 Here some real simple Windows Batch scripts so you can download only the ROMs you actually want:
 
-| file | description |
-|   -  |      -      |
-| [download_mame_neogeo.bat](download_mame_neogeo.bat) | only Neo Geo games |
-| [download_mame_aknf.bat](download_mame_aknf.bat) | only "All killer, no filler" games |
+| file | description | size |
+|   -  |      -      |   -  |
+| [download_mame_neogeo.bat](download_mame_neogeo.bat) | Neo Geo games | 157 roms (3'31GB) |
+| [download_mame_aknf.bat](download_mame_aknf.bat) | Arcade Controls' "All killer, no filler" games | 657 roms (5'78GB) |
+| [download_mame_klov100.bat](download_mame_klov100.bat) | Museum of Game's Killer List of Videogames Top 100 games | 99 roms (619MB) |
 
 ## How to use
 
