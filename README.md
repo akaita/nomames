@@ -15,7 +15,7 @@ Here some real simple Windows Batch scripts so you can download only the ROMs yo
 
 1. Read above to choose the `.bat` file you want. 
 
-2. Download that `bat` file.
+2. Download that `.bat` file.
 
 3. Execute it and wait until done.
 
